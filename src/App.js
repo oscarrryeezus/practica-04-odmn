@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
           OSCAR DANIEL HOLA
-          eee pero no jala aaa jelou
+          eee pero no jala aaa jelou primer 
         </a>
       </header>
     </div>
