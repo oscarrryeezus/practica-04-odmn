@@ -15,9 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-          OSCAR DANIEL HOLA
-          eee pero no jala aaa jelou primer 
+          Learn React OSCAR
         </a>
       </header>
     </div>
